@@ -9,6 +9,8 @@
 <body>
 
 
+
+
   <div class="container">
     <h2  align="center" >วัตุประสงค์ของการเยี่ยมชม</h2>
     <p>เพื่อเป็นการประชาสัมพันธ์ศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติอีกทางหนึ่งให้เป็นที่รู้จักแก่ ภาครัฐ, ภาคเอกชน,ภาคการศึกษา ซึ่งอาจจะก่อให้เกิดความร่วมมือระหว่างศูนย์ฯและกลุ่มผู้เยี่ยมชมดังกล่าวในอนาคตและทำให้ผู้เยี่ยมชมสึกว่าได้รับการต้อนรับที่ดีเมื่อติดต่อมา และเมื่อมาเยี่ยมชมก็ได้รับการดูแลที่ดี เพื่อให้ผู้เยี่ยมชมมีความรู้สึกที่ดีต่อศูนย์ ฯ</p>
@@ -37,7 +39,7 @@
 
 
 <h2  align="center" >ระเบียบการเยี่ยมชมศูนย์</h2>
-    <p>เพื่อเป็นการประชาสัมพันธ์ศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติอีกทางหนึ่งให้เป็นที่รู้จักแก่ ภาครัฐ, ภาคเอกชน,ภาคการศึกษา ซึ่งอาจจะก่อให้เกิดความร่วมมือระหว่างศูนย์ฯและกลุ่มผู้เยี่ยมชมดังกล่าวในอนาคตและทำให้ผู้เยี่ยมชมสึกว่าได้รับการต้อนรับที่ดีเมื่อติดต่อมา และเมื่อมาเยี่ยมชมก็ได้รับการดูแลที่ดี เพื่อให้ผู้เยี่ยมชมมีความรู้สึกที่ดีต่อศูนย์ ฯ</p>
+    <p>เพื่อให้การเข้าเยี่ยมชมศูนย์เป็นไปด้วยความเรียบร้อย ขอให้ท่านผู้เยี่ยมชมกรุณาปฏิบัติตามระเบียบดังต่อไปนี้</p>
     <div class="panel-group" id="accordion">
       <div class="panel panel-default">
         <div class="panel-heading">
@@ -46,16 +48,55 @@
           </h4>
         </div>
         <div id="visitor-rules" class="panel-collapse collapse">
-          <div class="panel-body"><h4 style="color: rgb(0, 0, 0);">&nbsp;ขอบเขตความรับผิดชอบ</h4>
+          <ol>
+	<li style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">ให้เยี่ยมชมเป็นหมู่คณะจำนวนไม่ต่ำกว่า 10 คนแแต่ไม่เกิน 25 คน</li>
+	<li style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">ช่วงเช้า คือเวลา 9.30 - 12.00 น. (ควรมาถึงก่อนเวลา)</li>
+	<li style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">ช่วงบ่าย คือเวลา 13.30 -16.30 น. (ควรมาถึงก่อนเวลา)</li>
+	<li style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">ต้องปฎิบัติตามระเบียบปฏิบัติด้านความปลอดภัยขณะเข้าเยี่ยมชมอย่างเคร่งครัด</li>
+	<li style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">กรุณาทำหนังสือที่เพื่อขอเข้าเยี่ยมชมโดยมีรายละเอียดดังนี้</li>
+</ol>
 
-            <ol>
-             <li style="text-align: left;">ดำเนินการจัดการต้อนรับผู้เยี่ยมชมศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติ</li>
-             <li style="text-align: left;">รับเรื่องการขอเข้าเยี่ยมชม และ พิจารณาการอนุมัติขอเยี่ยมชมตามเงื่อนไข และตามความเหมาะสม</li>
-             <li style="text-align: left;">พิจารณาห้องปฏิบัติการ/นักวิจัยที่เหมาะสมกับผู้เยี่ยมชม และติดต่อประสานงานเพื่อขอเข้าเยี่ยมชม</li>
-             <li style="text-align: left;">ดำเนินการ/ประสานงานกับหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับการต้อนรับผู้เยี่ยมชม</li>
-             <li style="text-align: left;">ดำเนินการต้อนรับผู้เยี่ยมชม</li>
-             <li style="text-align: left;">ทำการเก็บข้อมูล/วิเคราะห์ข้อมูลต่างๆ ที่เกี่ยวกับการเยี่ยมชม เช่น ประเมินแบบ &nbsp;&nbsp;&nbsp;สอบถามผู้เยี่ยมชม เป็นต้น เพื่อใช้ปรับปรุงงานทางด้านการต้อนรับและผลักดันให้เกิดความร่วมมือและบรรลุตามเป้าหมายของศูนย์ฯ</li>
-           </ol>
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.1 ชื่อกลุ่มที่จะขอเข้าเยี่ยมชม ตำแหน่ง พร้อมจำนวนและผู้ติดตามทั้งหมดที่สำคัญ&nbsp;</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">แจ้งชื่อผู้ประสานงานกลุ่ม</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.2 วัตถุประสงค์ที่ขอเข้าเยี่ยมชม แนวทางความร่วมมือในอนาคต</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.3 ความสนใจ เช่น กลุ่มวิจัย ห้องปฏิบัติการ ที่จะขอเข้าเยี่ยมชม</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.4 กำหนดการเยี่ยมชม ระยะเวลา และเวลาที่ชัดเจนที่จะเข้าเยี่ยมชมที่ MTEC</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.5 รายละเอียดอื่นๆ ที่น่าจะเป็นประโยชน์ต่อการจัดการเยี่ยมชม</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.6 ส่งจดหมายการขอเข้าเยี่ยมชมมายังศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติ <a href="https://vlarimar.mtec.or.th/mtec60/images/sample_visit.jpg" target="_blank">(<span style="text-align: center;">ตัวอย่างหนังสือขอเข้าเยี่ยมชม)</span></a></div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp;</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;"><strong style="box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;เรียน ผู้อำนวยการศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติ</strong></div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;"><strong style="box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติ (เอ็มเทค)</strong></div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;"><strong style="box-sizing: border-box;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 114 ถนนพหลโยธิน ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 12120</strong></div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp;</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">หมายเหตุ: เมื่อได้รับการพิจารณาให้เข้าเยี่ยมชมและต้องการเปลี่ยนแปลงกำหนดการเยี่ยมชมโปรดติดต่องานประชาสัมพันธ์ก่อนถึงกำหนดการเยี่ยมชมเดิม(ตามที่ได้ตกลงไว้เดิม) อย่างน้อย 7 วัน (ก่อนถึงกำหนดการเยี่ยมชม) มิฉะนั้นถือว่ายืนยันตามกำหนดการเยี่ยมชมเดิมและกรุณาตรงต่อเวลาโดยควรมาถึง MTEC ก่อนเวลาที่กำหนดไว้อย่างน้อย 15-30 นาที</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp;</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">&nbsp;</div>
+
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: DroidSans, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left;">
+<div style="box-sizing: border-box;">ส่งสำเนาการขอเข้าเยี่ยมชมส่งมาที่:&nbsp;</div>
+
+<div style="box-sizing: border-box;"><strong style="box-sizing: border-box;">งานประชาสัมพันธ์และสร้างความตระหนัก</strong></div>
+
+<div style="box-sizing: border-box;"><strong style="box-sizing: border-box;">โทรสาร 02-564-6369 &nbsp;</strong><strong style="box-sizing: border-box;">โทรศัพท์ 02-564-6500# 4672</strong></div>
+
+<div style="box-sizing: border-box;"><strong style="box-sizing: border-box;">E-mail :&nbsp;thitiworada.pan[at]mtec.or.th</strong></div>
+
+</div>
+
          </div>
        </div>
      </div>
@@ -65,6 +106,8 @@
 
 
  </div>
+ 
+ 
  
  
  <script>
