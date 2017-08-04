@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+  <div class="container">
+    <h2  align="center" >วัตุประสงค์ของการเยี่ยมชม</h2>
+    <p>เพื่อเป็นการประชาสัมพันธ์ศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติอีกทางหนึ่งให้เป็นที่รู้จักแก่ ภาครัฐ, ภาคเอกชน,ภาคการศึกษา ซึ่งอาจจะก่อให้เกิดความร่วมมือระหว่างศูนย์ฯและกลุ่มผู้เยี่ยมชมดังกล่าวในอนาคตและทำให้ผู้เยี่ยมชมสึกว่าได้รับการต้อนรับที่ดีเมื่อติดต่อมา และเมื่อมาเยี่ยมชมก็ได้รับการดูแลที่ดี เพื่อให้ผู้เยี่ยมชมมีความรู้สึกที่ดีต่อศูนย์ ฯ</p>
+    <div class="panel-group" id="accordion">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 id="obj" class="panel-title visitor-objective" align="center">
+            <a data-toggle="collapse"  href="#visitor-objective">อ่านต่อ <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+          </h4>
+        </div>
+        <div id="visitor-objective" class="panel-collapse collapse">
+          <div class="panel-body"><h4 style="color: rgb(0, 0, 0);">&nbsp;ขอบเขตความรับผิดชอบ</h4>
+
+            <ol>
+             <li style="text-align: left;">ดำเนินการจัดการต้อนรับผู้เยี่ยมชมศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติ</li>
+             <li style="text-align: left;">รับเรื่องการขอเข้าเยี่ยมชม และ พิจารณาการอนุมัติขอเยี่ยมชมตามเงื่อนไข และตามความเหมาะสม</li>
+             <li style="text-align: left;">พิจารณาห้องปฏิบัติการ/นักวิจัยที่เหมาะสมกับผู้เยี่ยมชม และติดต่อประสานงานเพื่อขอเข้าเยี่ยมชม</li>
+             <li style="text-align: left;">ดำเนินการ/ประสานงานกับหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับการต้อนรับผู้เยี่ยมชม</li>
+             <li style="text-align: left;">ดำเนินการต้อนรับผู้เยี่ยมชม</li>
+             <li style="text-align: left;">ทำการเก็บข้อมูล/วิเคราะห์ข้อมูลต่างๆ ที่เกี่ยวกับการเยี่ยมชม เช่น ประเมินแบบ &nbsp;&nbsp;&nbsp;สอบถามผู้เยี่ยมชม เป็นต้น เพื่อใช้ปรับปรุงงานทางด้านการต้อนรับและผลักดันให้เกิดความร่วมมือและบรรลุตามเป้าหมายของศูนย์ฯ</li>
+           </ol>
+         </div>
+       </div>
+     </div>
+   </div>
+
+
+<h2  align="center" >ระเบียบการเยี่ยมชมศูนย์</h2>
+    <p>เพื่อเป็นการประชาสัมพันธ์ศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติอีกทางหนึ่งให้เป็นที่รู้จักแก่ ภาครัฐ, ภาคเอกชน,ภาคการศึกษา ซึ่งอาจจะก่อให้เกิดความร่วมมือระหว่างศูนย์ฯและกลุ่มผู้เยี่ยมชมดังกล่าวในอนาคตและทำให้ผู้เยี่ยมชมสึกว่าได้รับการต้อนรับที่ดีเมื่อติดต่อมา และเมื่อมาเยี่ยมชมก็ได้รับการดูแลที่ดี เพื่อให้ผู้เยี่ยมชมมีความรู้สึกที่ดีต่อศูนย์ ฯ</p>
+    <div class="panel-group" id="accordion">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title visitor-rules" align="center" >
+            <a data-toggle="collapse"  href="#visitor-rules">อ่านต่อ <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+          </h4>
+        </div>
+        <div id="visitor-rules" class="panel-collapse collapse">
+          <div class="panel-body"><h4 style="color: rgb(0, 0, 0);">&nbsp;ขอบเขตความรับผิดชอบ</h4>
+
+            <ol>
+             <li style="text-align: left;">ดำเนินการจัดการต้อนรับผู้เยี่ยมชมศูนย์เทคโนโลยีโลหะและวัสดุแห่งชาติ</li>
+             <li style="text-align: left;">รับเรื่องการขอเข้าเยี่ยมชม และ พิจารณาการอนุมัติขอเยี่ยมชมตามเงื่อนไข และตามความเหมาะสม</li>
+             <li style="text-align: left;">พิจารณาห้องปฏิบัติการ/นักวิจัยที่เหมาะสมกับผู้เยี่ยมชม และติดต่อประสานงานเพื่อขอเข้าเยี่ยมชม</li>
+             <li style="text-align: left;">ดำเนินการ/ประสานงานกับหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับการต้อนรับผู้เยี่ยมชม</li>
+             <li style="text-align: left;">ดำเนินการต้อนรับผู้เยี่ยมชม</li>
+             <li style="text-align: left;">ทำการเก็บข้อมูล/วิเคราะห์ข้อมูลต่างๆ ที่เกี่ยวกับการเยี่ยมชม เช่น ประเมินแบบ &nbsp;&nbsp;&nbsp;สอบถามผู้เยี่ยมชม เป็นต้น เพื่อใช้ปรับปรุงงานทางด้านการต้อนรับและผลักดันให้เกิดความร่วมมือและบรรลุตามเป้าหมายของศูนย์ฯ</li>
+           </ol>
+         </div>
+       </div>
+     </div>
+   </div>
+
+
+
+
+ </div>
+ 
+ 
+ <script>
+  $(document).ready(function(){
+    /*****************************************/
+    $("#visitor-objective").on("hide.bs.collapse", function(){
+        /*.visitor-objective คือ Class ที่ตั้งขึ้นอยู่ใน  <h4 class="panel-title visitor-objective" align="center" > */
+      $(".visitor-objective").html('<a data-toggle="collapse"  href="#visitor-objective">อ่านต่อ <span class="glyphicon glyphicon-triangle-bottom"></span></a>');
+    });
+    $("#visitor-objective").on("show.bs.collapse", function(){
+      $(".visitor-objective").html('<a data-toggle="collapse"  href="#visitor-objective">ปิด <span class="glyphicon glyphicon-remove"></span></a>');
+    });
+    /*****************************************/
+    
+
+    $("#visitor-rules").on("hide.bs.collapse", function(){
+    
+    /*.visitor-rules คือ Class ที่ตั้งขึ้นอยู่ใน  <h4 class="panel-title visitor-rules" align="center" > */
+      $(".visitor-rules").html('<a data-toggle="collapse"  href="#visitor-rules">อ่านต่อ <span class="glyphicon glyphicon-triangle-bottom"></span></a>');
+    });
+    $("#visitor-rules").on("show.bs.collapse", function(){
+      $(".visitor-rules").html('<a data-toggle="collapse"  href="#visitor-rules">ปิด <span class="glyphicon glyphicon-remove"></span></a>');
+    });
+    
+    
+    
+    });
+</script> 
+
+</body>
+</html>
